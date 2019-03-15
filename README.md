@@ -1,2 +1,3 @@
 # helloworld
-This is my first repository,I have no idea of the thing.
+Hi,this is my first repository,I'm following the tutorial to change about the 'thing' 
+I have absolutely no idea. 
